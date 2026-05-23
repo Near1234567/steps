@@ -16,7 +16,7 @@ const resources = {
         "title": "Cheminement",
         "subtitle": "L'Ame du Projet",
         "role": "Artiste Peintre & Art-thérapeute",
-        "studio": "Atelier Souffle d'Orient, Marrakech",
+        "studio": "Atelier basé à Marrakech",
         "content": "Je suis artiste peintre et art-thérapeute, avec plus de dix années de pratique artistique. Mon travail s’inscrit dans une recherche continue autour de l’expression émotionnelle, de la matière et du lien entre l’art et le mieux-être. Ma démarche artistique se caractérise par une exploration de supports variés, allant de la peinture grand format à la sculpture métallique. Le féminin occupe une place centrale dans mon univers artistique. Mon processus créatif est intuitif et guidé par une forte exigence intérieure. Parallèlement à ma pratique artistique, je développe une activité en art-thérapie. À travers mon travail, j’affirme une conviction essentielle : l’art est à la fois un acte esthétique et une expérience profondément humaine."
       },
       "gallery": {
