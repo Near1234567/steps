@@ -31,7 +31,7 @@ const defaultData: SiteData = {
     role: "Artiste Peintre",
     imageUrl: "https://natural-emerald-x8gssmkq9g.edgeone.app/IMG_4842.jpeg",
     secondaryImageUrl: "https://popular-black-ydgdqerc8b.edgeone.app/IMG_4112.jpeg",
-    studioLocation: "Atelier Souffle d'Orient, Marrakech",
+    studioLocation: "Atelier basé à Marrakech",
   },
   gallery: {
     title: "Collection Privée",
