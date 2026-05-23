@@ -135,7 +135,7 @@ const resources = {
         "title": "Journey",
         "subtitle": "The Soul of the Project",
         "role": "Painter & Art-therapist",
-        "studio": ""studio": "Studio based in Marrakech",
+        "studio": "Studio based in Marrakech",
         "content": "I am a painter and art therapist, with over ten years of artistic practice. My work is part of a continuous research around emotional expression, matter and the link between art and well-being. My artistic approach is characterized by an exploration of various media, ranging from large-format painting to metal sculpture. The feminine occupies a central place in my artistic universe. My creative process is intuitive and guided by a strong inner requirement. In parallel with my artistic practice, I develop an activity in art therapy. Through my work, I affirm an essential conviction: art is both an aesthetic act and a deeply human experience."
       },
       "gallery": {
@@ -254,7 +254,7 @@ const resources = {
         "title": "المسار",
         "subtitle": "روح المشروع",
         "role": "فنانة تشكيلية ومعالجة بالفن",
-        "studio": ""مرسم مقره مراكش",
+        "studio": "مرسم في مراكش",
         "content": "أنا فنانة تشكيلية ومعالجة بالفن، بخبرة تزيد عن عشر سنوات من الممارسة الفنية. يندرج عملي في إطار بحث مستمر حول التعبير العاطفي، والمادة، والصلة بين الفن والرفاهية. تتميز مقاربتي الفنية باستكشاف وسائط متنوعة، تتراوح من اللوحات ذات الحجم الكبير إلى المنحوتات المعدنية. يحتل الجانب الأنثوي مكانة مركزية في عالمي الفني. عمليتي الإبداعية بديهية ومسترشدة بمطلب داخلي قوي. وبالتوازي مع ممارستي الفنية، أعمل في مجال العلاج بالفن. ومن خلال عملي، أؤكد على قناعة أساسية: الفن هو عمل جمالي وتجربة إنسانية عميقة في آن واحد."
       },
       "gallery": {
@@ -372,9 +372,8 @@ i18n
       escapeValue: false,
     },
     detection: {
-      order: ['localStorage', 'navigator'],
-      caches: ['localStorage'],
-    }
+  order: ['navigator'],
+}
   });
 
 export default i18n;
